@@ -1,5 +1,5 @@
 # MineriaDeDatos
-Fcfm
+Facultad de Ciencias Físico Matemáticas
 ## Fase 1
 [Examen Diagnostico](https://github.com/AllendeG/MineriaDeDatos/blob/main/Examendiagnostico_1860995.pdf)
 
