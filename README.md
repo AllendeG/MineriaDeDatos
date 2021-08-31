@@ -9,6 +9,6 @@ Facultad de Ciencias Físico Matemáticas
 
 [Ejercicios Básicos de Phyton](https://github.com/AllendeG/MineriaDeDatos/blob/main/Ej_Phyton_1860995.ipynb)
 
-[Ejercicio Limpieza de Base] (https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09%20.ipynb)
+[Ejercicio Limpieza de Base](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09%20.ipynb)
 
-[Primer Avance del PIA] (https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Avance1_PIA_Equipo09.ipynb)
+[Primer Avance del PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Avance1_PIA_Equipo09.ipynb)
