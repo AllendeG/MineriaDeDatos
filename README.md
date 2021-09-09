@@ -12,3 +12,8 @@ Facultad de Ciencias Físico Matemáticas
 [Ejercicio Limpieza de Base](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09%20.ipynb)
 
 [Primer Avance del PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Avance1_PIA_Equipo09.ipynb)
+
+## Fase 2
+[Presentación Método k-means](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Presentacion_k-Means_Equipo09.pptx.pdf)
+
+[Preguntas-Método k-means](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Preguntas%20k-means.pdf)
