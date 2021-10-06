@@ -17,3 +17,7 @@ Facultad de Ciencias Físico Matemáticas
 [Presentación Método k-means](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Presentacion_k-Means_Equipo09.pptx.pdf)
 
 [Preguntas-Método k-means](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Preguntas%20k-means.pdf)
+
+[Prácticas de Visualización](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Visualizacion_Equipo09.ipynb)
+
+[Segundo Avance del PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/AvancePIA_II_Grupo002_Equipo09.ipynb)
