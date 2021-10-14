@@ -21,3 +21,7 @@ Facultad de Ciencias Físico Matemáticas
 [Prácticas de Visualización](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Visualizacion_Equipo09.ipynb)
 
 [Segundo Avance del PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/AvancePIA_II_Grupo002_Equipo09.ipynb)
+
+## Fase 3
+
+[Tecnicas y Validación](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Tecnicas_PIA_II_Grupo002_Equipo09.ipynb)
